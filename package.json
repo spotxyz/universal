@@ -1,5 +1,5 @@
 {
-  "name": "@electron/universal",
+  "name": "@spotxyz/universal",
   "version": "0.0.0-development",
   "description": "Utility for creating Universal macOS applications from two x64 and arm64 Electron applications",
   "main": "dist/cjs/index.js",
